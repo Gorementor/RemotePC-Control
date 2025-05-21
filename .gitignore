@@ -56,3 +56,6 @@ obj/
 
 /.gradle/*
 /.idea/*
+
+/.gradle/
+/.idea/
