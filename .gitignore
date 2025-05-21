@@ -51,3 +51,8 @@ obj/
 # Misc
 *.apk
 *.ap_
+
+*.jar
+
+/.gradle/*
+/.idea/*
